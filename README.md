@@ -1,25 +1,33 @@
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-- 👋 Oi, eu sou o @codinfreitas
-- 👀 eu estou interessado em me desenvolver ainda mais como desenvolvedor full stack.
-- 🌱 no momento eu estou criando API's com a arquitetura Rest
-- 📫 Caso queira entrar em contato comigo me manda uma mensagem no instagram @freitas.g.c ou no E-mail: gabriel.sistemas.00@gmail.com
-
-<!---
-Olá, meu nome é Gabriell, sou um desenvolvedor full stack junior ja ativo no mercado. Tenho 25 anos e sou formado em engenharia elétrica, 
-pretendo me especializar em engenharia de software em 2023. Estou iniciando está conta no github para usar como suporte no futuro em processos seletivos.
---->
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-- 👋 Hi, I'm @codinfreitas
-- 👀 I'm interested in developing myself further as a full stack developer.
-- 🌱 at the moment I'm creating API's with Rest architecture
-- 📫 If you want to contact me send me a message on instagram @freitas.g.c or E-mail: gabriel.sistemas.00@gmail.com
-
-<!---
-Hi, my name is Gabriell, i'm a junior full stack developer already active in the market. I'm 25 years old and I have a degree in electrical engineering, 
-i intend to specialize in software engineering in 2023. I'm starting this github account to use as support in the future in selective processes.
---->
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+## Olá, eu sou o Gabriel Freitas... vem conhecer um poucos mais sobre o meu trabalho!!
+<div align="center">
+  <a href="https://github.com/codinfreitas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codinfreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinfreitas&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="gabriel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="gabriel-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain.svg">
+  <img align="center" alt="gabriel-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="gabriel-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="gabriel-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">  
+  <img align="center" alt="gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="gabriel-Bitbuket" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg">
+  <img align="center" alt="gabriel-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="gabriel-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+  <img align="right" alt="gabriel-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>
+  
+  ##
+  
+  <div> 
+  <a href="https://www.instagram.com/freitas.g.c/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabriel.sistemas.00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-freitas-4270501a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
+  
+  ![Snake animation](https://github.com/codinfreitas/codinfreitas/blob/output/github-contribution-grid-snake.svg)
+  
+  
+  
