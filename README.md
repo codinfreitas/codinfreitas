@@ -16,7 +16,6 @@
   <img align="center" alt="gabriel-Bitbuket" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg">
   <img align="center" alt="gabriel-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="gabriel-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
-  <img align="right" alt="gabriel-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/965711118343487571/1033226009216024637/Screenshot_2022-10-22-00-50-43-595_com.whatsapp2.jpg">
 </div>
   
   ##
